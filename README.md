@@ -7,10 +7,10 @@ Keeper App is a clone of Google Keep, which has functionality of adding notes wi
 
 https://user-images.githubusercontent.com/65702724/143458462-2818d1a0-a5ea-40bf-be39-08935b0041d9.mp4
 
-
+<!-- 
 This project is deployed using **Github Pages** 
 
-[Deployed project link]()
+[Deployed project link]() -->
 
 ## Preview
 
