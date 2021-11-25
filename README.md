@@ -4,7 +4,7 @@
 
 Keeper App is a clone of Google Keep, which has functionality of adding notes with a title and content related, which can be deleted. It is purely made with react.js.
 
-![Demo video](/public/images/demoVideo.mp4)
+<!-- ![Demo video](/public/images/demoVideo.mp4) -->
 
 This project is deployed using **Github Pages** 
 
